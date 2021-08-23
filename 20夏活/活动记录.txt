@@ -1,0 +1,556 @@
+E1-甲===================================================================================
+
+P1-运输
+
+1.  A | B | C | D-SS | J-C
+2.  A | B | C | D-SS | J-SS | K-SS | L | M-SS 球磨
+3.  A | B | C | D-SS | J-SS | K-A  | L | M-SS 高雄
+4.  A | B | C | D-SS | J-SS | K-A  | L | M-S 敷波
+5.  A | B | C | D-SS | J-SS | K-B  | L | M-S 不知火
+6.  A | B | C | D-SS | J-SS | K-A  | L | M-S 
+7 . A | B | C | D-SS | J-SS | K-A  | L | M-S 球磨
+8.  A | B | C | D-SS | J-SS | K-A  | L | M-S
+9.  A | B | C | D-SS | J-SS | K-A  | L | M-A
+10.A | B | C | D-SS | J-SS | K-A 文月大破撤退
+11.A | B | C | D-SS | J-SS | K-A   | L | M-A
+12.A | B | C | D-SS | J-SS | K-A   | L | M-S
+13.A | B | C | D-SS | J-SS | K-A   | L | M-S
+
+运输完成
+
+解谜
+
+1.  A | B | C | E | F-SS
+
+P2-斩杀
+
+1.  A | B | C | E | F-S   | O | R-SS | Q-SS | T-A 甘古特
+2.  A | B | C | E | F-S   | O | R-S   | Q-A  | T-S 甘古特
+3.  A | B | C | E | F-SS | O | R-S   | Q-A  | T-A 山城
+4.  A | B | C | E | F-SS | O | R-SS | Q-SS | T-S 天龙
+5.  A | B | C | E | F-SS | O | R-S   | Q-A  | T-S 藤波
+6.  A | B | C | E | F-SS | O | R-SS | Q-A  | T-A 初春
+7.  A | B | C | E | F-SS | O | R-S   | Q-S  | T-A 名取
+8.  A | B | C | E | F-SS | O | R-SS | Q-A  | T-A 吹雪
+9.  A | B | C | E | F-S   | O | R-S   | Q-A  | T-A 初春
+10.A | B | C | E | F-S   | O | R-S 曙大破撤退
+11.A | B | C | E | F-SS | O | R-SS | Q-SS | T-A 川内
+12.A | B | C | E | F-SS | O | R-SS | Q-A 约翰斯顿大破撤退
+13.A | B | C | E | F-SS | O | R-SS | Q-A  | T-D 
+14.A | B | C | E | F-SS | O | R-S   | Q-A 约翰斯顿大破撤退
+15.A | B | C | E | F-SS | O | R-SS | Q-A  | T-A 神通
+16.A | B | C | E | F-S   | O | R-SS | Q-A  | T-A 凉风
+17.A | B | C | E | F-SS | O | R-SS | Q-A  | T-A 矶波
+18.A | B | C | E | F-S   | O | R-SS | Q-A  | T-A 五十铃
+19.A | B | C | E | F-S   | O | R-SS | Q-A  | T- A 矶波
+20.A | B | C | E | F-S   | O | R-SS | Q-A  | T-S 利根
+
+斩杀 
+
+
+E2-乙===================================================================================
+
+P1
+
+1.  A | C-SS | H-SS | I | K | J-SS | M-S 神通
+2.  A | C-SS | H-S   | I | K | J-SS | M-S 空气
+3.  A | C-S   | H-S   | I | K | J-S   | M-S 弥生
+4.  A | C-S   | H-S   | I | K | J-S   | M-S 村雨
+5.  A | C-S   | H-S   | I | K | J-S   | M-S 福江
+
+P1完成
+
+解谜
+
+1.  A | B | E-空优
+
+P2
+
+1.  A | C-SS | H-SS | I | K | L-A  | R-S | T-A 伊势
+2.  A | C-SS | H-SS | I | K | L-SS | R- 猫猫按到了刷新
+3.  A | C-SS | H-S   | I | K | L-A  | R-S | T-A 明石
+4.  A | C-S 朝潮中破撤退
+5.  A | C-SS | H-SS | I | K | L-A  | R-A | T-S 妙高
+6.  A | C-SS | H-SS | I | K | L-SS | R-S | T-S 扶桑
+7.  A | C-S   | H-S  | I | K | L-A  | R-S | T-S 加古
+8.  A | C-SS | H-SS | I | K | L-A | R-S | T-A 阿武隈
+
+斩杀
+
+
+E3-甲===================================================================================
+
+解谜1 B点空优
+
+1.  D | C-A 占守大破撤退
+2.  D | C-A 夕张、占守大破撤退
+3.  D | C-C 占守大破撤退
+4. D |  C-A | A-SS | B-SS 空优
+
+解谜2  N和L S胜 两次守家白字
+
+1.  D | E | F-SS | H-A 占守大破撤退
+2.  D |  E | F-SS | H-SS | I-A 佐渡大破撤退
+3.  D | E | F-S 択捉大破撤退
+4.  D | E | F-SS | H-SS | I-A | L-A
+5.  D | E | F-SS | H-B 占守大破撤退
+6.  D | E | F-SS | H-B  | I-B 占守大破撤退
+7.  D | E | F-SS | K-B   | N-C 
+8.  D | E | F-SS | H-A   占守大破撤退
+9.  D | E | F-S   | H-SS | I-B | L-D
+10.D | E | F-SS | H-C 那智大破撤退
+11.D | E | F-S   | K-SS | N-S
+12.D | E | F-SS | H-A | I-B | L-S
+
+解谜3  S和R  S胜
+
+1.  D | E | F-SS | H-A | S-SS
+2.  D | C-B | A-S | B-SS | P-A 佐渡大破撤退
+3.  D | C-B | A-SS | B-A | P-A | R-S
+
+
+磨血
+
+1.  D | E | F-SS | U | T-SS | V-S | O-A 神通
+2.  D | E | F-SS | U | T-S | V-A | O-A 伊19
+3.  D | E | F-SS | U | T-S | V-SS | O-S 伊168
+4.  D | E | F-SS | U | T-S | V-SS | O-SS U-511
+5.  D | E | F-SS | U | T-S | V-SS | O-A 加古
+6.  D | E | F-SS | U | T-S 占守大破撤退
+7.  D | E | F-SS | U | T-S | V-S 夕张大破撤退
+8.  D | E | F-SS | U | T-S | V-SS | O-S 对马
+
+削甲 守家空优2次
+
+1.  空均
+2.  空优
+3.  空均
+4.  空均
+5.  空均
+6.  空优
+
+削甲 S点 S胜2次
+
+1.  D | E | F-SS | S-SS
+2.  D | E | F-SS | S-SS 
+
+斩杀
+
+1.  D | E | F-SS | U | T-S | V-SS | O-C
+2.  D | E | F-SS | U | T-S 占守大破撤退
+3.  D | E | F-SS | U | T-S | V-SS | O-A 川内
+4.  D | E | F-SS | U | T-A | O-D
+5.  D | E | F-SS | U | T-S | V-S | O-C
+6.  D | E | F-SS | U | T-S | V-A | O-S 伊势
+
+斩杀
+
+E4-丙===================================================================================
+
+运输1
+
+1.  C | E-SS | H-A | L | M-A
+2.  C | E-A  | H-S  | L | M-S
+3.  C | E-S   | H-SS | L | M-S
+
+运输1完成
+
+解谜 G空优
+
+1.  C | E-SS | G-SS 空确 | F | D
+
+运输2
+
+1.  C | B-SS | A-A | D-SS | O-S 三隈大破撤退
+2.  C | B-SS | A-A | D-SS | O-S | Q | R-S 阳炎
+3.  C | B-SS | A-A | D-SS | O-S | Q | R-S 青叶
+4.  C | B-SS | A-A | D-SS | O-S | Q | R-SS 白雪
+5.  C | B-SS | A-SS | D-SS | O-S | Q | R-S 神通
+
+运输完成
+
+磨血
+
+1.  C | E-SS | H-SS | S-SS | V | X-S | Z3-S 雾岛
+2.  C | E-SS | H-SS | S-A | V | X-SS | Z3-S 瑞凤
+3.  C | E-SS | H-SS | S-SS | V | X-S | Z3-S 睦月
+4.  C | E-S 阿武隈大破撤退
+5.  C | E-A | H-SS | S-SS | V | X-SS | Z3-S 瑞凤
+6.  C | E-S | H-SS | S-SS | V | X-SS | Z3-S 爱宕
+7.  C | E-A | H-SS | S-A | V | X-S   | Z3-S G古鹰
+8.  C | E-SS | H-S | S-A | V | X-S   | Z3-S 摩耶
+
+斩杀
+
+E5-丙===================================================================================
+
+P1解谜
+
+守家白字 Q点S胜
+
+1.  D | E | G | I-SS | K-SS | M-SS | O-A | Q-S
+
+V点S胜
+
+1.  D | E | H-SS | J-SS | P-A | R-SS | V-SS
+
+W点S胜
+
+1.  D | E | H-SS | J-SS | P-SS | R-A | V-SS    带错阵容沟
+2.  D | E | H-SS | J-SS | P-A | T-A | W-S
+
+P1
+
+1.  D | E | G | I-SS | M-B | Q-SS | Y-S 
+2.  D | E | G | I-SS | M-A | Q-A | Y-S Helena
+3.  D | E | G | I-SS | M-A | Q-S | Y-S 
+4.  D | E | G | I-SS | M-B | Q-A | Y-S 
+5.  D | E | G | I-SS | M-S 江风大破撤退
+6.  D | E | G | I-SS | M-B | Q-A | Y-S 狭雾
+7.  D | E | G | I-SS | M-S 皋月大破撤退
+8.  D | E | G | I-SS | M-A | Q-SS | Y-S 神通
+
+
+P2 解谜
+
+X2 S胜
+
+1.  D | E | G | F-SS | X1-SS | X2-SS 
+
+B S胜
+
+1.  C | B-S
+
+运输
+
+1.  C | B-A | Z6-SS |  Z5-A | Z4 | Z-A
+2.  C | B-A | Z6-A | Z5-SS | Z4 | Z-S 加古
+3.  C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 古鹰
+4.  C | B-A | Z6-SS | Z5-A | Z4 | Z-S  比睿
+5.  C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 妙高
+
+运输完成
+
+
+E6-丙===================================================================================
+
+P1
+
+1.  A | C-SS | G-A | K | N-SS | S-A | X-S 青叶
+2.  A | C-SS | G-A | K | N-SS | S-A 朝潮大破撤退
+3.  A | C-S | G-A | K | N-SS | S-B 村雨大破撤退
+4.  A | C-SS | G-A | K | N-S | S-B | X-S 衣笠
+5.  A | C-SS | G-SS | K | N-S | S-A | X-S 白露
+6.  A | C-SS | G-A | K | N-SS | S-A | X-S 阳炎
+7.  A | C-SS | G-A | K | N-S | S-B | X-S 暁
+8.  A | C-SS | G-SS | K | N-SS | S-B | X-A 白露
+
+解谜
+
+V点S胜
+
+1.  A | B-A | H | M-A | P-SS | R-A | T-SS | V-S
+
+B点空优
+
+1. A | B-SS 空优
+
+开路
+
+V点S胜
+1. A | B-A | H | M-SS | P-SS | R-SS | T-SS | V-S 阳炎
+
+C点机动部队A胜 G点空优 防空空优
+
+1. A | C-SS | E-SS | I-A | G-A 空优 | K-守家空优
+
+
+P2
+
+1. A | C-SS | K | N-S | S-S | Z-A 隼鹰
+2. A | C-SS | K | N-SS | S-A | Z-A 爱宕
+3. A | C-S | K | N-S | S-A | Z-A 朝潮
+4. A | C-S 村雨大破撤退
+5. A | C-SS | K | N-SS | S-A | Z-S 江风
+6. A | C-SS | K | N-SS | S-A | Z-A 摩耶
+7. A | C-SS | K | N-SS | S-A | Z-A 文月
+8. A | C-SS | K | N-S | S-A | Z-A 白雪
+9. A | C-SS | K | N-SS | S-A | Z-A 长良
+
+削甲
+
+V点S胜
+
+1. A | B-A | H | M-S | P-S | R-A | T-S | V-S 鸟海
+
+运输部队X点S胜
+
+1. A | C-SS | K | N-S | S-A | X-S 凉风
+
+斩杀
+
+1. A | C-A | K | N-S | S-A | Z-S 球磨
+
+斩杀完成
+
+
+
+E7-丙===================================================================================
+
+P1
+
+1.  F-A | I-S | K | N-SS | O-S | X-S 空气
+2.  F-SS | I-SS | K | N-A | O-S | X-S 空气
+3.  F-SS | I-SS | K | N-SS | O-S | X-S 空气
+4.  F-S | I-SS | K | N-A | O-SS | X-A 空气
+5.  F-S | I-S | K | N-A | O-S | X-S 浦风
+6.  F-A | I-B | K | N-A | O-SS | X-S Gambier Bay
+
+P2开路
+
+守家空优
+
+R点S胜
+
+1.  F-A | I-SS | M-S | R-S | U-守家空优
+
+E点空优
+
+1.  A | C-SS | E-SS 空均
+2.  A | C-SS | E-A 空确
+
+
+P3
+
+1.  D | H-SS | V-B | V1-A | V3-SS | V4-A | Y-S 深雪
+2.  D | H-SS | V-A | V1-A | V3-S | V4-A | Y-S 五十铃
+3.  D | H-SS | V-B | V1-A | V3-SS | V4-A 日进大破撤退
+4.  D | H-SS | V-B | V1-A | V3-S 岛风大破撤退
+5.  D | H-SS | V-B | V1-A | V3-S | V4-A | Y-SS 白雪
+6.  D | H-A | V-B | V1-A | V3-SS | V4-A | Y-S 朝潮
+7.  D | H-A | V-A | V1-A | V3-SS | V4-A | Y-S 羽黑
+8.  D | H-A | V-B | V1-SS | V3-SS | V4-A | Y-S 金刚
+
+斩杀
+
+P4开BOSS点 
+
+X点S胜
+
+1.  F-A | I-A | K | N-A | O-S | X-S 多摩
+
+P5开新出发点
+
+X点A胜
+
+1.  F-SS | I-SS | K | N-A | O-S | X-S 深雪
+
+Y点A胜
+
+1.  F-SS | I-S | M-B | R-S | Y-S 初春
+
+Z点A胜 W4空优
+
+1.  D | H-SS | V-A | V1-SS | V3-S | W-S | W2 | W4-A 空确 | Z-A 熊野
+2.  D | H-A | V-B | V1-A | V3-S | W-S | W2 | W4-A 空确 | Z-S 暁
+
+P6 磨血
+
+1.  Z2-S | W2 | W4-A | Z-S 妙高
+2.  Z2-S | W2 | W4-A 日进大破撤退
+3.  Z2-S | W2 | W4-A 日进大破撤退
+4.  Z2-S 利根大破撤退
+5.  Z2-S | Z3-S | W4-A | Z-S 大凤
+6.  Z2-S | Z3-S | W4-A | Z-S 飞龙
+7.  Z2-S | W2 | W4-A | Z-S 吹雪
+8.  Z2-SS | W2 | W4-SS | Z-A 五十铃
+9.  Z2-S | W2 | W4-A | Z-A 长良
+10.Z2-S | Z3-S | W2 | W4-A | Z-S 摩耶
+
+斩杀
+
+
+
+
+
+
+
+
+
+E2捞船===================================================================================
+
+1.  A | C-SS | H-SS | I | K | J-SS | M-S 羽黑
+2.  A | C-SS | H-SS | I | K | J-SS | M-S 隼鹰
+3.  A | C-SS | H-SS | I | K | J-S | M-S 空气
+4.  A | C-SS | H-S | I | K | J-S | M-S 菊月
+5.  A | C-S | H-S | I | K | J-SS | M-S 那珂
+6.  A | C-SS | H-S | I | K | J-S | M-S 伊势
+7.  A | C-SS | H-SS | I | K | J-S | M-S 空气
+8.  A | C-SS | H-SS | I | K | J-S | M-S 空气
+9.  A | C-SS | H-SS | I | K | J-SS | M-S 北上
+10.A | C-S | H-SS | I | K | J-S | M-S 空气
+11.A | C-SS | H-SS | I | K | J-SS | M-S 卯月
+12.A | C-S | H-SS | I | K | J-S | M-S 如月
+13.A | C-SS | H-S | I | K | J-SS | M-S 伊势
+14.A | C-SS | H-SS | I | K | J-SS | M-S 利根
+15.A | C-SS | H-SS | I | K | J-SS | M-S 空气
+16.A | C-SS | H-SS | I | K | J-S | M-S 那珂
+17.A | C-SS | H-SS | I | K | J-S | M-S 羽黑
+18.A | C-SS | H-SS | I | K | J-S | M-S 妙高
+19.A | C-SS | H-SS | I | K | J-SS | M-SS 空气
+20.A | C-SS | H-SS | I | K | J-SS | M-S 空气
+21.A | C-SS | H-SS | I | K | J-SS | M-S 大井
+22.A | C-SS | H-SS | I | K | J-S | M-S 五十铃
+23.A | C-SS | H-SS | I | K | J-S | M-S 空气
+24.A | C-SS | H-SS | I | K | J-SS | M-S 空气
+25.A | C-SS | H-SS | I | K | J-SS | M-S 大井
+26.A | C-S | H-SS | I | K | J-S | M-S 空气
+27.A | C-S | H-S | I | K | J-S | M-S 由良
+28.A | C-SS | H-SS | I | K | J-S | M-S 五月雨
+29.A | C-SS | H-SS | I | K | J-S | M-S 卯月
+30.A | C-SS | H-SS | I | K | J-S | M-S 空气
+31.A | C-SS | H-SS | I | K | J-SS | M-S 五十铃
+32.A | C-SS | H-SS | I | K | J-S | M-S 飞鹰
+33.A | C-SS | H-SS | I | K | J-S | M-S 如月
+34.A | C-SS | H-S | I | K | J-SS | M-S 空气
+35.A | C-SS | H-S | I | K | J-SS | M-S 空气
+36.A | C-SS | H-SS | I | K | J-SS | M-A 空气
+
+
+
+
+
+
+
+E3捞船===================================================================================
+
+1.  D | E | F-SS | U | T-S | V-S | O-A 那珂
+2.  D | E | F-SS | U | T-S | V-S | O-SS 伊400
+3.  D | E | F-SS | U | T-S | V-SS | O-A 阳炎
+4.  D | E | F-SS | U | T-S | V-SS | O-S 加古
+5.  D | E | F-SS | U | T-S | V-SS | O-A 睦月
+6.  D | E | F-SS | U | T-S 占守大破撤退
+7.  D | E | F-SS | U | T-S | V-A | O-S 雾岛
+8.  D | E | F-SS | U | T-S | V-B | O-A 木曾
+9.  D | E | F-SS | U | T-SS | V-S | O-S 筑摩
+
+10.D | E | F-SS | U | T-SS | V-S | O-S Luigi Torelli
+11.D | E | F-SS | U | T-S | V-S | O-S 加古
+12.D | E | F-SS | U | T-S | V-SS | O-S 利根
+13.D | E | F-SS | U | T-S | V-SS | O-A  川内
+14.D | E | F-SS | U | T-SS | V-S | O-A  长良
+15.D | E | F-SS | U | T-SS | V-S | O-A  青叶
+16.D | E | F-SS | U | T-S | V-S | O-A 白雪
+17.D | E | F-SS | U | T-S | V-S | O-S 加贺
+18.D | E | F-SS | U | T-S | V-S | O-SS 对马
+19.D | E | F-SS | U | T-SS | V-SS | O-S 球磨
+20.D | E | F-SS | U | T-S 佐渡大破撤退
+21.D | E | F-SS | U | T-S | V-SS | O-S 那珂
+22.D | E | F-SS | U | T-SS | V-SS | O-A 筑摩
+23.D | E | F-SS | U | T-S | V-S | O-SS 衣笠
+24.D | E | F-SS | U | T-S | V-S | O-A 深雪
+
+
+
+
+E4捞船===================================================================================
+
+1.  C | E-S | H-SS | S-SS | V | X-SS | Z3-S  吹雪
+2.  C | E-SS | H-SS | S-SS | V | X-SS | Z3-S  青叶
+3.  C | E-SS | H-SS | S-SS | V | X-SS | Z3-S  对马
+
+
+
+E5捞船===================================================================================
+
+1.  C | B-S | Z6-SS |  Z5-SS | Z4 | Z-A 川内
+2.  C | B-S | Z6-S 江风大破撤退
+3.  C | B-A | Z6-S | Z5-A | Z4 | Z-S 衣笠
+4.  C | B-A | Z6-S | Z5-A | Z4 | Z-S 长月
+5.  C | B-A | Z6-SS | Z5-A | Z4 | Z-S 谷风
+6.  C | B-A | Z6-SS | Z5-A | Z4 | Z-S 爱宕
+7.  C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 川内
+8.  C | B-S | Z6-SS | Z5-A | Z4 | Z-S 鸟海
+9.  C | B-A | Z6-SS | Z5-A | Z4 | Z-S 铃谷
+10.C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 川内
+11.C | B-A | Z6-SS | Z5-A | Z4 | Z-S 摩耶
+12.C | B-A | Z6-SS | Z5-A | Z4 | Z-S 谷风
+13.C | B-A | Z6-SS | Z5-SS | Z4 | Z-S 浜风
+14.C | B-A | Z6-SS | Z5-A | Z4 | Z-S 鸟海
+15.C | B-A | Z6-SS | Z5-A | Z4 | Z-S 球磨
+16.C | B-S | Z6-SS | Z5-A | Z4 | Z-S 长良
+17.C | B-B | Z6-SS | Z5-A | Z4 | Z-S 松风
+18.C | B-A | Z6-SS | Z5-SS | Z4 | Z-S 铃谷
+19.C | B-B | Z6-SS | Z5-B | Z4 | Z-S 妙高
+20.C | B-A | Z6-SS | Z5-B | Z4 | Z-S 加古
+21.C | B-A | Z6-SS | Z5-B | Z4 | Z-S 长良
+22.C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 加古
+23.C | B-S | Z6-SS | Z5-A | Z4 | Z-S 村雨
+24.C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 村雨
+25.C | B-A | Z6-SS | Z5-SS | Z4 | Z-S 峯云
+26.C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 长月
+27.C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 村雨
+28.C | B-A | Z6-SS | Z5-A | Z4 | Z-S 比叡
+29.C | B-SS | Z6-S | Z5-A | Z4 | Z-S 川内
+30.C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 川内
+31.C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 榛名
+32.C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 羽黑
+33.C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 雪风
+34. C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 古鹰
+35. C | B-S | Z6-A | Z5-A | Z4 | Z-S 青叶
+36. C | B-S | Z6-SS | Z5-A | Z4 | Z-S 隼鹰
+37. C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 皋月
+38. C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 川内
+39. C | B-S | Z6-S | Z5-A | Z4 | Z-S 亲潮
+40. C | B-S | Z6-SS | Z5-SS | Z4 | Z-S 川内
+41. C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 峯云
+42. C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 川内
+43. C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 长良
+44. C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 那智
+45. C | B-A | Z6-SS | Z5-SS | Z4 | Z-S 球磨
+46. C | B-SS | Z6-SS | Z5-SS | Z4 | Z-S 亲潮
+47. C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 川内
+48. C | B-A | Z6-SS | Z5-A | Z4 | Z-SS 村雨
+49. C | B-SS | Z6-SS | Z5-A | Z4 | Z-S 村雨
+50. C | B-A | Z6-S | Z5-A | Z4 | Z-S 那智
+51. C | B-A | Z6-S | Z5-A | Z4 | Z-S 谷风
+52. C | B-A | Z6-S | Z5-A | Z4 | Z-S 那智
+53. C | B-A | Z6-S | Z5-A | Z4 | Z-S  村雨
+54. C | B-A | Z6-S | Z5-A | Z4 | Z-S  加古
+55. C | B-A | Z6-S | Z5-A | Z4 | Z-S  榛名
+56. C | B-A | Z6-S | Z5-A | Z4 | Z-S  川内
+57. C | B-A | Z6-S | Z5-A | Z4 | Z-S  鸟海
+58. C | B-A | Z6-S | Z5-A | Z4 | Z-S  川内
+59. C | B-A | Z6-S | Z5-A | Z4 | Z-S  长月
+60. C | B-A | Z6-S | Z5-A | Z4 | Z-S  川内
+61. C | B-A | Z6-S | Z5-A | Z4 | Z-S  妙高
+62. C | B-A | Z6-S | Z5-A | Z4 | Z-S  皋月
+63. C | B-A | Z6-S | Z5-A | Z4 | Z-S  浜风
+
+
+
+
+
+
+
+
+
+E7捞船===================================================================================
+
+1.  Z2-S | W2 | W4-SS | Z-S Houston
+2.  Z2-S | W2 | W4-SS | Z-S 榛名
+3.  Z2-S | W2 | W4-SS | Z-SS 雾岛
+4.  Z2-S | W2 | W4-SS | Z-S 铃谷
+5.  Z2-S | W2 | W4-A | Z-S 大凤
+6.  Z2-S | W2 | W4-SS | Z-A 球磨
+7.  Z2-S 亚特兰大大破撤退
+8.  Z2-S | W2 | W4-SS | Z-S 大东
+9.  Z2-S | W2 | W4-A | Z-S 雾岛
+10.Z2-S | W2 | W4-A | Z-S 长波
+11.Z2-S 亚特兰大大破撤退
+12.Z2-S | W2 | W4-A | Z-S 瑞凤
+13.Z2-SS | W2 | W4-A | Z-S 金刚
+14.Z2-S | W2 | W4-A | Z-S 榛名
+15.Z2-SS | W2 | W4-A | Z-S 羽黑
+16.Z2-S | W2 | W4-A | Z-S 齐柏林
+

@@ -1,0 +1,94 @@
+甲
+
+P1 
+
+1. A-A 時雨大破撤退
+2. A-C 時雨 约翰斯顿大破撤退
+
+切乙
+
+P1
+1. A-A | D-S | I-S 名曲
+2. A-A | D-S | I-SS 野分
+3. A-S 约翰斯顿大破撤退
+4. A-A | D-SS | I-S 睦月
+5. A-S 约翰斯顿、贾维斯大破撤退
+6. A-A | D-SS | I-SS 妙高
+
+
+P2
+
+1. A-B | D-A | G-SS | J-A 
+2. A-B | D-A | G-A | J-S
+3. A-B | D-A | G-A | J-S 筑摩
+4. A-B | D-S | G-B | J-A
+5. A-A | D-A | G-B | J-A
+6. A-A | D-S | G-A | J-S 初霜
+7. A-C 约翰斯顿大破撤退
+8. A-B | D-A 霞大破撤退
+9. A-A | D-A | G-A | J-S
+
+P3解谜
+
+C、O 空优
+
+1. C-A 空优 秋津洲大破撤退
+2. C-A 空均 | A-SS | D-A | L-A | O-SS 空优（O点空优返回未提示）
+
+G点空确
+
+1. A-SS 潮 | D-D | E-A 瑞鹤大破撤退
+2. A-SS 矶波 | D-A | E-S 深雪 衣阿华大破撤退
+3. A-SS | D-B | E-S 吹雪 | G-A 空确
+
+D I J S胜
+
+1. D-A
+2. D-Ad
+3. D-S
+4. A-A 筑摩大破撤退
+5. A-A | D-SS | I-S 
+6. A-A | E-C | J-S
+
+R点S胜
+
+1. C-A | A-S 瑞鹤 贾维斯大破撤退
+2. C-SS | A-S 亚特兰大大破撤退
+3. A-S 丛云 | D-SS | L-B | O-A | Q-S 初春 | R-S 
+
+防空空优
+
+1. D-S Libeccio大破撤退
+2. D-SS 
+3. D-SS | K-空袭防空空确
+
+解密完成
+
+斩杀
+
+1. A-A | D-A 阿武隈大破撤退
+2. A-S | D-SS | L-B | O-SS | Q-A | T-S 筑摩
+3. A-S | D-SS | L-B | O-A | Q-B
+4. A-S 贾维斯中破撤退
+5. A-B | D-S | L-S 時雨大破撤退
+6. D-SS | L-S 北上、時雨大破撤退
+7. D-A | L-S 北上大破撤退
+8. D-A 阿武隈大破撤退
+9. D-A | L-SS | O-A | Q-S 初霜 | T-S 对马
+10.D-S | L-S 吹雪 | O-A | Q-S | T-S 
+11.D-A | L-S 初霜 時雨、鸟海大破撤退
+12.D-A | L-S | O-A | Q-S 阿武隈大破撤退
+13.D-A 時雨大破撤退
+14.D-SS | L-SS | O-A | Q-S | T-S 甘比尔湾
+15.D-A | L-S | O-A | Q-S 朝霜 | T-S 
+16.D-A | L-A | O-A | Q-S 時雨、北上大破撤退
+17.D-A | L-S 冲波 | O-A | Q-S 阿武隈、時雨、鸟海大破撤退
+18.D-A | L-S 霞大破撤退
+19.D-A | L-S 初霜 | O-B | Q-S | T-A 浜波
+20.A-S 绫波 | D-A | 鸟海大破撤退
+21.A-SS | D-A | T-S | O-A | Q-S 霞 
+22.A-SS | D-A | T-SS 鸟海 | O-C 萨拉托加、速吸、北上大破撤退
+23.A-SS | D-A | T-SS | O-A | Q-S 秋津洲大破撤退
+24.A-A | D-A | T-S | O-SS | Q-S 萨拉托加大破撤退
+25.A-SS | D-A | T-SS | O-A | Q-S 敷波 | T-S 萨缪尔·B·罗伯茨
+
